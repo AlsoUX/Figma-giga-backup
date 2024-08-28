@@ -35,7 +35,7 @@
 
 ### Автор этого кода
 
-**Создатель**:  
+**Создатель**: [zombikot](https://t.me/zombikot)  
 **Телеграм-канал**: [DesignClown](https://t.me/DesignClown/)
 
 ---
