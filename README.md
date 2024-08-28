@@ -8,7 +8,7 @@
 ### Установка
 
 1. Установите [Node.js](https://nodejs.org/en) и `Google Chrome`, если он еще не установлен.
-3. Клонируйте к себе репозиторий (надо скачать [git]([https://t.me/DesignClown/](https://git-scm.com/)):
+3. Клонируйте к себе репозиторий (надо скачать ([git]([https://t.me/DesignClown/](https://git-scm.com/)):
    ```bash
    git clone https://github.com/AlsoUX/Figma-giga-backup.git
    
