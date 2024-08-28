@@ -8,9 +8,10 @@
 ### Установка
 
 1. Установите [Node.js](https://nodejs.org/en) и `Google Chrome`, если он еще не установлен.
-3. Клонируйте к себе репозиторий:
+3. Клонируйте к себе репозиторий (надо скачать [git]([https://t.me/DesignClown/](https://git-scm.com/)):
    ```bash
    git clone https://github.com/AlsoUX/Figma-giga-backup.git
+   
 4. Откройте файл `config.json` и заполните все необходимые данные.
 5. Откройте консоль в папке, где находится проект.
 6. Запустите скрипт командой: `node index.js`.
@@ -33,7 +34,7 @@
 
 ### Автор этого кода
 
-**Создатель**: [zombikot](https://t.me/zombikot)  
+**Создатель**:  
 **Телеграм-канал**: [DesignClown](https://t.me/DesignClown/)
 
 ---
