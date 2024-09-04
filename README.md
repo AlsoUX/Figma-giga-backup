@@ -38,39 +38,3 @@
 **Создатель**: [zombikot](https://t.me/zombikot)  
 **Телеграм-канал**: [DesignClown](https://t.me/DesignClown/)
 
----
----
-
-## Figma Giga Backup
-
-This script allows you to back up your Figma and Figjam team projects, as well as personal projects, in a convenient format.
-
----
-
-### Installation
-
-1. Install [Node.js](https://nodejs.org/en) and `Google Chrome` if it’s not already installed.
-2. Open the `config.json` file and fill in all the required data.
-3. Open the console in the folder where the project is located.
-4. Run the script with the command: `node index.js`.
-
----
-
-### FAQ
-#### How to get the `teamId`:
-1. Go to your files on Figma.
-2. Copy the digits that follow `/team/` in the URL.
-
-   Example: `https://www.figma.com/files/team/**teamID**/`
-
-#### How to get the `tokenAPI`:
-1. Go to your account settings (Settings).
-2. In the "Account" section, scroll down to the "Personal access tokens" block.
-3. Click "Generate new token" to create a new token.
-
----
-
-### Author of this code
-
-**Creator**: [zombikot](https://t.me/zombikot)  
-**Telegram channel**: [DesignClown](https://t.me/DesignClown/)
